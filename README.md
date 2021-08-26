@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarthak Ketan Shah
 - 👀 I’m interested in Javascript frameworks.
-- 🌱 I’m currently learning React Js and React Ts
+- 🌱 I’m currently learning React Js.
 
 
 <!---
